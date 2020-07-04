@@ -16,12 +16,18 @@
 jquery.slim.min.js
 bootstrap.min.css
 bootstrap.bundle.min.js
-```
-
-
-
-
+all.css
 
 ```
+
+
+
+
+
+```
+// include 
+
+<scripts=""></scripts>
+
 ```
 
