@@ -1,4 +1,4 @@
-### Bootstrap 4 Responsive Pricing Table Snippet | snippets16
+### (Bootstrap 4 Responsive Pricing Table Snippet | snippets16)[https://takagotch.github.io/snippets16/]
 ---
 
 [RESULT](https://jsfiddle.net/StartBootstrap/rgp3qdye/)
