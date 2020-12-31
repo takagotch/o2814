@@ -1,6 +1,18 @@
 ### [Bootstrap 4 Responsive Pricing Table Snippet | snippets16](https://takagotch.github.io/snippets16/)
 ---
 
+### https://gitlab.com/takagotch/snippets16
+
+```
+.gitlab-ci.yml 
+https://takagotch.gitlab.io/snippets16
+
+
+git clone git@gitlab.com:takagotch/snippets16 Windows: GitforWin(MING64) Linux: default
+```
+
+---
+
 [RESULT](https://jsfiddle.net/StartBootstrap/rgp3qdye/)
 
 #### CDN
